@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Devanshi
-- 👀 I’m interested in quantum physics, (creating) music, and definately not hacking things 
+- 👀 I’m interested in quantum computing and physics, (creating) music, and definately not hacking things(which means yes I have hacked stuff) 
 - 🌱 I’m currently a sophmore
 - 💞️ I’m looking to collaborate on space, music stuff
 - 📫 email me- devanshi311009@gmail.com
